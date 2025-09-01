@@ -11,5 +11,5 @@
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
 
-<h2>This is from Siddiq Pasha</h2>
+
 </body>
